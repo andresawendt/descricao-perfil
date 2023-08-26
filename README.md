@@ -2,6 +2,8 @@
 <h3 align="center">Pensamento analítico para tomada de decisão e método para a construção do pensamento🚀</h3>
 
 - 🔭 Sou administradora e analista de dados na **@FundacaoCERTI**
+  
+- 📚 Estou estudando para me tornar engenheira de dados
 
 - 📝 Eu costumo escrever no **https://medium.com/@andresawendt**
 
