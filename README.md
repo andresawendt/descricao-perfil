@@ -1,7 +1,7 @@
 <h1 align="left">Oi, eu sou a Andresa 👋</h1>
 <h3 align="center">Pensamento analítico para tomada de decisão e método para a construção do pensamento🚀</h3>
 
-- 🔭 Sou administradora e analista de banco de dados na **@FundacaoCERTI**
+- 🔭 Sou administradora e analista de dados na **@FundacaoCERTI**
 
 - 📝 Eu costumo escrever no **https://medium.com/@andresawendt**
 
