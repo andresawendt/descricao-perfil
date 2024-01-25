@@ -1,11 +1,11 @@
 <h1 align="left">Oi, eu sou a Andresa 👋</h1>
 <h3 align="center">Pensamento analítico para tomada de decisão e método para a construção do pensamento🚀</h3>
 
-- 🔭 Sou administradora e analista de dados na **@FundacaoCERTI**
+- 🔭 Sou analista de dados e BI na **@FundacaoCERTI**
   
-- 📚 Estou estudando para me tornar engenheira de dados
+- 📚 Sou aluna do Bootcamp Data Analytics da WoMakersCode em parceria com a Microsoft, iFood, Potência Tech e S&P Global.
 
-- 📝 Eu costumo escrever no **https://medium.com/@andresawendt**
+- 📝 Conheça mais do meu blog **https://medium.com/@andresawendt** e do meu portfólio **https://sites.google.com/view/portfolio-andresa-wendt**.
 
 - 📄 Você pode conhecer um pouco mais das minhas experiência profissionais no **https://www.linkedin.com/in/andresa-catarina-wendt/**
 
